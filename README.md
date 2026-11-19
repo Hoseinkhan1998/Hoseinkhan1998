@@ -28,7 +28,7 @@ I care about clean structure, reusable components, performance and continuous le
 
 <div align="center">
 
-<a href="https://nexora-kappa-wheat.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nexora-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-nexora-light.svg"><img alt="Nexora" src="assets/project-nexora-dark.svg" width="49%"></picture></a>
+<a href="https://syntelos.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-syntelos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-syntelos-light.svg"><img alt="Syntelos" src="assets/project-syntelos-dark.svg" width="49%"></picture></a>
 <a href="https://app.snapcyte.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-snapcyte-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-snapcyte-light.svg"><img alt="Snapcyte" src="assets/project-snapcyte-dark.svg" width="49%"></picture></a>
 <br>
 <a href="https://mazzinshop.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shop-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-shop-light.svg"><img alt="MazinShop" src="assets/project-shop-dark.svg" width="49%"></picture></a>
